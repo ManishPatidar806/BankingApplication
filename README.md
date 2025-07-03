@@ -10,13 +10,7 @@ The Banking Portal API provides a set of endpoints for managing user accounts, f
 - Fund Transfer: Users can transfer funds to other accounts within the system.
 - Transaction History: Users can view their transaction history.
 
-## TODO
 
-- UI Fix for Dashboard Charts
-- Pagination in table
-- Save JWT Token in db and remove on logout
-- Email trigger on account login
-- Send Bank Statement on Email
 
 ## Installation and Setup
 
